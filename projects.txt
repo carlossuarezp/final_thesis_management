@@ -1,0 +1,10 @@
+MATH MOBILE APP[Development of a mathematics simple problem solving application for the App Store[10[6[2020{100429792[Carlos[Suarez{Harith[Taha[Sotware Engineering Department[170
+HFT ROBOT[Development of a piece of software for automatic High Frequency Trading over the Stock Market[2[6[2020{100123456[Ruben[Gomez{Telmo[Fernandez[Computing Department[222
+INVESTMENT CALCULATOR[Development of a mathematical model that calculates the highest rate of succes for different possible investments[7[6[2020{100111222[Diego[Franco{Harith[Taha[Sotware Engineering Department[170
+THUMBNAIL GENERATOR[Development of an AI system that identifies graphical patterns in the thumbnails of the most succesfull YouTube videos[23[5[2020{100444555[Elias[Montero{Fulano[Serrano[Machine Learning Department[123
+REAL ESTATE APP[Development of a system that takes the main features of a house, compares with others in the market and gives an accurate pricing[27[5[2020{100667899[Enzo[Marquez{Adolfo[Martin[Software Engineering Department[200
+PACKAGE TRACKER[Development of a computerized tracking system that allows companies to automatically track orders[17[6[2020{100567890[Felipe[Hernandez{Denzel[Washington[Manufacturing Engineering Department[36
+COOKING ROBOT[Design of a programmable physical robot able to help in the kitchen by doing basic cooking tasks[4[6[2020{100000000[Alfred[James{Leonardo[DiCaprio[Electrical Engineering Department[10
+ENCRYPTING SYSTEM[Development of a system that encrypts text messages and contributes to the saftey of information[11[6[2020{100987985[Gerardo[Flores{Smith[Computing Department[256[9253696
+IOT DEVICE[Design of an Internet of Things based device that allows people to open vechicles through an app with no need of car keys[25[5[2020{100222345[Adam[Djokovic{Antonio[Banderas[Computer Engineering Department[33
+COLLEGE ADVISOR[Development of a web app based on an algorithm that presents the right college degree according to the preferences of the user[31[5[2020{100254671[Collin[Braco{Lionel[Messi[Software Engineering Department[56
